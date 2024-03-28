@@ -1,4 +1,4 @@
-### Hi there!
+# Hi there!
 
 ## About Me
 I am a fourth-year computer science student at STI - College, passionate about coding and technology. With a strong foundation
