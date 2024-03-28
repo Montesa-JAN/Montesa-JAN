@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**Montesa-JAN/Montesa-JAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a fourth-year computer science student at STI - College, passionate about coding and technology. With a strong foundation
+in various programming languages and web development, I enjoy tackling challenging problems and building innovative solutions.
 
-Here are some ideas to get you started:
+## Skills
+**Programming Languages: Python, C#, Java.
+**Web Development**: HTML, CSS, JavaScript, PHP.
+**Other Skills**: Communication, Problem-Solving, Project Management, Time Management, Technical Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+
+
+Feel free to explore my repositories to learn more about my work and interests. Don't hesitate to reach out if you have any questions or collaboration opportunities!
+
+## Contact Me
+[LinkedIn](www.linkedin.com/in/audhymontesa)
+[Personal Website]()
