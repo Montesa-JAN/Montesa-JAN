@@ -5,8 +5,8 @@ I am a fourth-year computer science student at STI - College, passionate about c
 in various programming languages and web development, I enjoy tackling challenging problems and building innovative solutions.
 
 ## Skills
-**Programming Languages**: Python, C#, Java.
-**Web Development**: HTML, CSS, JavaScript, PHP.
+- **Programming Languages**: Python, C#, Java.<br>
+- **Web Development**: HTML, CSS, JavaScript, PHP.
 **Other Skills**: Communication, Problem-Solving, Project Management, Time Management, Technical Documentation
 
 ## Projects
