@@ -16,6 +16,6 @@ in various programming languages and web development, I enjoy tackling challengi
 Feel free to explore my repositories to learn more about my work and interests. Don't hesitate to reach out if you have any questions or collaboration opportunities!
 
 ## Contact Me
-[LinkedIn](www.linkedin.com/in/audhymontesa)
+- [LinkedIn](https://www.linkedin.com/in/audhymontesa)
 
-[Personal Website](https://github.com/Montesa-JAN/Personal-Website)
+- [Personal Website](https://github.com/Montesa-JAN/Personal-Website)
