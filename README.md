@@ -17,5 +17,3 @@ Feel free to explore my repositories to learn more about my work and interests. 
 
 ## Contact Me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audhymontesa)
-
-- [Personal Website](https://github.com/Montesa-JAN/Personal-Website)
