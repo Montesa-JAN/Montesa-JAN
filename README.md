@@ -1,12 +1,12 @@
 # Hi there!
 
 ## About Me
-I am a fourth-year computer science student at STI - College, passionate about coding and technology. With a strong foundation
+I am a recent graduate with a Bachelor of Science in Computer Science at STI - College, Ortigas - Cainta, passionate about coding and technology. With a strong foundation
 in various programming languages and web development, I enjoy tackling challenging problems and building innovative solutions.
 
 ## Skills
 - **Programming Languages**: Python, C#, Java.<br>
-- **Web Development**: HTML, CSS, JavaScript, PHP.
+- **Web Development**: HTML, CSS, JavaScript, WordPress
 **Other Skills**: Communication, Problem-Solving, Project Management, Time Management, Technical Documentation
 
 ## Projects
